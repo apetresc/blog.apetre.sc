@@ -21,7 +21,7 @@ paginate: 5
 markdown: redcarpet
 highlighter: pygments
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
 exclude:
